@@ -1,2 +1,2 @@
 # MyFirst2DPcGame
- My first 2d pc game
+ This is my first attempt at a 2d pc game
